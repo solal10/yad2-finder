@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-11T15:34:39.689Z",
+  "updatedAt": "2026-08-11T15:38:16.252Z",
   "lastRunOk": true,
   "count": 170,
-  "newCount": 170,
+  "newCount": 0,
   "searchUrl": "https://www.yad2.co.il/realestate/rent/tel-aviv-area?maxPrice=8000&minRooms=4&maxRooms=4&parking=1&elevator=1&shelter=1",
   "criteria": {
     "area": "תל אביב והסביבה (region 3)",
@@ -15,199 +15,6 @@
     ]
   },
   "listings": [
-    {
-      "id": "05xa7p45",
-      "token": "05xa7p45",
-      "price": 0,
-      "rooms": 4,
-      "sqm": 110,
-      "floor": 5,
-      "city": "רמת גן",
-      "neighborhood": "שכונת הלל",
-      "street": "",
-      "address": "שכונת הלל, רמת גן",
-      "lat": 32.08205,
-      "lon": 34.822734,
-      "image": "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_993832_20260725111810.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_993832_20260725111810.jpeg",
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_996538_20260725111809.jpeg",
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_999059_20260725111810.jpeg",
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_995964_20260725111809.jpeg",
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_992618_20260725111810.jpeg",
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_991584_20260725111809.jpeg",
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_994872_20260725111809.jpeg",
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_996231_20260725111811.jpeg",
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_994982_20260725111820.jpeg",
-        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_998313_20260725111821.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/05xa7p45",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "ykbzo0qi",
-      "token": "ykbzo0qi",
-      "price": 0,
-      "rooms": 4,
-      "sqm": 90,
-      "floor": 17,
-      "city": "חולון",
-      "neighborhood": "ח-501",
-      "street": "יעקב פיכמן",
-      "address": "יעקב פיכמן 25, ח-501, חולון",
-      "lat": 32.014354,
-      "lon": 34.775313,
-      "image": "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010193_20260802161325.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010193_20260802161325.jpeg",
-        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010963_20260802161331.jpeg",
-        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010979_20260802161341.jpeg",
-        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010335_20260802161350.jpeg",
-        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_09999_20260802161408.jpeg",
-        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010738_20260802161627.jpeg"
-      ],
-      "tags": [],
-      "adType": "private",
-      "url": "https://www.yad2.co.il/realestate/item/ykbzo0qi",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "45hda6dj",
-      "token": "45hda6dj",
-      "price": 0,
-      "rooms": 4,
-      "sqm": 85,
-      "floor": 6,
-      "city": "רמת גן",
-      "neighborhood": "נווה יהושע, ערמונים",
-      "street": "החולה",
-      "address": "החולה 22, נווה יהושע, ערמונים, רמת גן",
-      "lat": 32.061969,
-      "lon": 34.834877,
-      "images": [],
-      "tags": [],
-      "adType": "private",
-      "url": "https://www.yad2.co.il/realestate/item/45hda6dj",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "w6kqdpnl",
-      "token": "w6kqdpnl",
-      "price": 0,
-      "rooms": 4,
-      "sqm": 178,
-      "floor": 37,
-      "city": "תל אביב יפו",
-      "neighborhood": "צמרות איילון, פארק צמרת",
-      "street": "ניסים אלוני",
-      "address": "ניסים אלוני, צמרות איילון, פארק צמרת, תל אביב יפו",
-      "lat": 32.0891571578947,
-      "lon": 34.7968812105263,
-      "image": "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010867_20260324211345.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010867_20260324211345.jpeg",
-        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010366_20260324211345.jpeg",
-        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010748_20260324211345.jpeg",
-        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010696_20260324211345.jpeg",
-        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010069_20260324211346.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/w6kqdpnl",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "i0enklq6",
-      "token": "i0enklq6",
-      "price": 0,
-      "rooms": 4,
-      "sqm": 168,
-      "floor": 1,
-      "city": "תל אביב יפו",
-      "neighborhood": "צהלון, שיכוני חסכון",
-      "street": "מעפילי סלוודור",
-      "address": "מעפילי סלוודור, צהלון, שיכוני חסכון, תל אביב יפו",
-      "lat": 32.0450985909091,
-      "lon": 34.7531796363636,
-      "image": "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010705_20260119160346.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010705_20260119160346.jpeg",
-        "https://img.yad2.co.il/Pic/202603/23/2_6/o/y2_8_VAVYXji5cq_20260323.jpeg",
-        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010566_20260119160411.jpeg",
-        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010687_20260119160346.jpeg",
-        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010751_20260119160358.jpeg",
-        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010338_20260119160351.jpeg",
-        "https://img.yad2.co.il/Pic/202603/23/2_6/o/y2_10_YQcLohZ_T4_20260323.jpeg",
-        "https://img.yad2.co.il/Pic/202603/23/2_6/o/y2_8_wPsT2clvR0_20260323.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/i0enklq6",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "ildwx278",
-      "token": "ildwx278",
-      "price": 0,
-      "rooms": 4,
-      "sqm": 140,
-      "floor": 35,
-      "city": "בת ים",
-      "neighborhood": "דרום חדש, פארק הים",
-      "street": "הקוממיות",
-      "address": "הקוממיות 14, דרום חדש, פארק הים, בת ים",
-      "lat": 32.006378,
-      "lon": 34.741547,
-      "image": "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_5_999681_20260603.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_5_999681_20260603.jpeg",
-        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_4_991439_20260603.jpeg",
-        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_13_993029_20260603.jpeg",
-        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_15_b_999436_20260603.jpeg",
-        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_6_992298_20260603.jpeg",
-        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_14_992920_20260603.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/ildwx278",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "7meyc7to",
-      "token": "7meyc7to",
-      "price": 0,
-      "rooms": 4,
-      "sqm": 120,
-      "floor": 7,
-      "city": "בת ים",
-      "neighborhood": "דרום חדש, פארק הים",
-      "street": "אהוד מנור",
-      "address": "אהוד מנור 3, דרום חדש, פארק הים, בת ים",
-      "lat": 32.004645,
-      "lon": 34.740086,
-      "image": "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_3_RirIIC4SLS_20260526.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_3_RirIIC4SLS_20260526.jpeg",
-        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_4_7_6cgpgwGB_20260526.jpeg",
-        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_5_aaYqbSqYwh_20260526.jpeg",
-        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_6_L7HIGRR6WI_20260526.jpeg",
-        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_7_iupLfwTbec_20260526.jpeg",
-        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_8_tGxAO22LdJ_20260526.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/7meyc7to",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
     {
       "id": "cnoqmb48",
       "token": "cnoqmb48",
@@ -231,7 +38,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/cnoqmb48",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "lhn4wx20",
@@ -262,7 +69,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/lhn4wx20",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "kszrv72u",
@@ -291,7 +98,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/kszrv72u",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "iq7sduky",
@@ -323,7 +130,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/iq7sduky",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "yed4lgmd",
@@ -350,7 +157,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/yed4lgmd",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4zl70lmz",
@@ -378,7 +185,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/4zl70lmz",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8myfneqi",
@@ -407,7 +214,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/8myfneqi",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "hum5c4sq",
@@ -440,7 +247,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/hum5c4sq",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "vxms340b",
@@ -472,7 +279,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/vxms340b",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "m2wc6a9l",
@@ -492,7 +299,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/m2wc6a9l",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "j65tth52",
@@ -528,7 +335,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/j65tth52",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4binl885",
@@ -555,7 +362,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/4binl885",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "go4lh0op",
@@ -580,7 +387,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/go4lh0op",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dafckwuf",
@@ -615,7 +422,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/dafckwuf",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "s8qy4dqy",
@@ -646,7 +453,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/s8qy4dqy",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c7n877rt",
@@ -677,7 +484,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/c7n877rt",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "80ng2yb3",
@@ -707,7 +514,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/80ng2yb3",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aip5v7u4",
@@ -739,7 +546,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/aip5v7u4",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fo3wzg1x",
@@ -774,7 +581,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/fo3wzg1x",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4kj8x5em",
@@ -802,7 +609,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/4kj8x5em",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "jlaa7w59",
@@ -836,7 +643,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/jlaa7w59",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6bnvpnoi",
@@ -864,7 +671,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/6bnvpnoi",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ry4sixhk",
@@ -894,7 +701,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/ry4sixhk",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "mcfk7ea7",
@@ -922,7 +729,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/mcfk7ea7",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "utjrel0i",
@@ -949,7 +756,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/utjrel0i",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "19k33t5q",
@@ -978,7 +785,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/19k33t5q",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "972562bu",
@@ -1006,7 +813,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/972562bu",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "o2bccv9c",
@@ -1033,7 +840,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/o2bccv9c",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7sla1pcv",
@@ -1062,7 +869,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/7sla1pcv",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "q2gmag4l",
@@ -1095,7 +902,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/q2gmag4l",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "w8pk2rt5",
@@ -1129,7 +936,31 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/w8pk2rt5",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "rk2ltqcq",
+      "token": "rk2ltqcq",
+      "price": 7200,
+      "rooms": 4,
+      "sqm": 88,
+      "floor": 1,
+      "city": "חולון",
+      "neighborhood": "רסקו א'",
+      "street": "ריינס",
+      "address": "ריינס 1, רסקו א', חולון",
+      "lat": 32.01912,
+      "lon": 34.782586,
+      "image": "https://img.yad2.co.il/Pic/202608/07/2_2/o/y2_1pa_010021_20260807174424.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/07/2_2/o/y2_1pa_010021_20260807174424.jpeg",
+        "https://img.yad2.co.il/Pic/202608/07/2_2/o/y2_1pa_010138_20260807174442.jpeg"
+      ],
+      "tags": [],
+      "adType": "private",
+      "url": "https://www.yad2.co.il/realestate/item/rk2ltqcq",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "5uw2c045",
@@ -1163,31 +994,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/5uw2c045",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "rk2ltqcq",
-      "token": "rk2ltqcq",
-      "price": 7200,
-      "rooms": 4,
-      "sqm": 88,
-      "floor": 1,
-      "city": "חולון",
-      "neighborhood": "רסקו א'",
-      "street": "ריינס",
-      "address": "ריינס 1, רסקו א', חולון",
-      "lat": 32.01912,
-      "lon": 34.782586,
-      "image": "https://img.yad2.co.il/Pic/202608/07/2_2/o/y2_1pa_010021_20260807174424.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/07/2_2/o/y2_1pa_010021_20260807174424.jpeg",
-        "https://img.yad2.co.il/Pic/202608/07/2_2/o/y2_1pa_010138_20260807174442.jpeg"
-      ],
-      "tags": [],
-      "adType": "private",
-      "url": "https://www.yad2.co.il/realestate/item/rk2ltqcq",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fh5do29j",
@@ -1212,7 +1019,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/fh5do29j",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "j0jayp5s",
@@ -1240,7 +1047,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/j0jayp5s",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1v3lkhun",
@@ -1270,7 +1077,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/1v3lkhun",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xhkubvv1",
@@ -1297,7 +1104,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/xhkubvv1",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2c9ikb7s",
@@ -1333,7 +1140,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/2c9ikb7s",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "mqowoppn",
@@ -1353,7 +1160,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/mqowoppn",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "21yt0xnv",
@@ -1378,7 +1185,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/21yt0xnv",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c4mvedmj",
@@ -1409,7 +1216,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/c4mvedmj",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6uh7lqhk",
@@ -1439,7 +1246,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/6uh7lqhk",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "kh28ibfq",
@@ -1471,7 +1278,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/kh28ibfq",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "zectt8kh",
@@ -1491,7 +1298,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/zectt8kh",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3o4f0y6q",
@@ -1514,7 +1321,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/3o4f0y6q",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "tljw3k37",
@@ -1540,7 +1347,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/tljw3k37",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "rj0l32f2",
@@ -1567,7 +1374,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/rj0l32f2",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1ka2vktu",
@@ -1593,7 +1400,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/1ka2vktu",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6bokj8dr",
@@ -1618,7 +1425,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/6bokj8dr",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "zg26tad8",
@@ -1647,7 +1454,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/zg26tad8",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cuw7u6np",
@@ -1674,7 +1481,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/cuw7u6np",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "itwid9m7",
@@ -1704,7 +1511,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/itwid9m7",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8877k5pl",
@@ -1736,7 +1543,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/8877k5pl",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "kevzxi3g",
@@ -1770,7 +1577,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/kevzxi3g",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cpa82lgt",
@@ -1797,7 +1604,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/cpa82lgt",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "qm6tk5cl",
@@ -1828,7 +1635,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/qm6tk5cl",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fqecdjxp",
@@ -1851,7 +1658,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/fqecdjxp",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "n3pg0vaa",
@@ -1871,7 +1678,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/n3pg0vaa",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "nh2jufaj",
@@ -1898,7 +1705,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/nh2jufaj",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1kf6ec6t",
@@ -1925,7 +1732,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/1kf6ec6t",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "lf9t6gux",
@@ -1952,7 +1759,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/lf9t6gux",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6zted2b9",
@@ -1984,7 +1791,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/6zted2b9",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5jzs5mxn",
@@ -2015,7 +1822,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/5jzs5mxn",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cbh6566m",
@@ -2048,7 +1855,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/cbh6566m",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "sx340hms",
@@ -2082,7 +1889,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/sx340hms",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "tw3sbly0",
@@ -2114,7 +1921,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/tw3sbly0",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "47ohfa77",
@@ -2145,7 +1952,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/47ohfa77",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "tq84w703",
@@ -2179,7 +1986,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/tq84w703",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "rfpdkzdb",
@@ -2213,7 +2020,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/rfpdkzdb",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "yyarmwwi",
@@ -2250,7 +2057,40 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/yyarmwwi",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "jofy3g40",
+      "token": "jofy3g40",
+      "price": 7500,
+      "rooms": 4,
+      "sqm": 103,
+      "floor": 6,
+      "city": "בת ים",
+      "neighborhood": "דרום מזרח",
+      "street": "אנה פרנק",
+      "address": "אנה פרנק 14, דרום מזרח, בת ים",
+      "lat": 32.004774,
+      "lon": 34.753985,
+      "image": "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010413_20260803084812.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010413_20260803084812.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010666_20260803084812.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010818_20260803084812.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010060_20260803084812.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010611_20260803084812.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010897_20260803084812.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010119_20260803084812.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010352_20260803084812.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010124_20260803084812.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010615_20260803084813.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010957_20260803084813.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/jofy3g40",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "t0t97cmy",
@@ -2277,7 +2117,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/t0t97cmy",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3dygttl9",
@@ -2306,36 +2146,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/3dygttl9",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "lx1jbvzu",
-      "token": "lx1jbvzu",
-      "price": 7500,
-      "rooms": 4,
-      "sqm": 100,
-      "floor": 11,
-      "city": "בת ים",
-      "neighborhood": "דרום מערב ותיק",
-      "street": "הנביאים",
-      "address": "הנביאים, דרום מערב ותיק, בת ים",
-      "lat": 32.0116692405063,
-      "lon": 34.7458988734177,
-      "image": "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010429_20250821190451.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010429_20250821190451.jpeg",
-        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010780_20250821190452.jpeg",
-        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010350_20250821190452.jpeg",
-        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010184_20250821190452.jpeg",
-        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010601_20250821190451.jpeg",
-        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010731_20250821190451.jpeg",
-        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010658_20250821190452.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/lx1jbvzu",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0o8gwdxs",
@@ -2367,7 +2178,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/0o8gwdxs",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "wg2ipk3m",
@@ -2395,7 +2206,36 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/wg2ipk3m",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "lx1jbvzu",
+      "token": "lx1jbvzu",
+      "price": 7500,
+      "rooms": 4,
+      "sqm": 100,
+      "floor": 11,
+      "city": "בת ים",
+      "neighborhood": "דרום מערב ותיק",
+      "street": "הנביאים",
+      "address": "הנביאים, דרום מערב ותיק, בת ים",
+      "lat": 32.0116692405063,
+      "lon": 34.7458988734177,
+      "image": "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010429_20250821190451.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010429_20250821190451.jpeg",
+        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010780_20250821190452.jpeg",
+        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010350_20250821190452.jpeg",
+        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010184_20250821190452.jpeg",
+        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010601_20250821190451.jpeg",
+        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010731_20250821190451.jpeg",
+        "https://img.yad2.co.il/Pic/202508/21/2_6/o/y2_1pa_010658_20250821190452.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/lx1jbvzu",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "k6zdfnb6",
@@ -2432,7 +2272,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/k6zdfnb6",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "31q2247i",
@@ -2459,7 +2299,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/31q2247i",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6obcxcyv",
@@ -2485,7 +2325,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/6obcxcyv",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "lsj293m3",
@@ -2521,36 +2361,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/lsj293m3",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "5ah32p4a",
-      "token": "5ah32p4a",
-      "price": 7500,
-      "rooms": 4,
-      "sqm": 116,
-      "floor": 4,
-      "city": "בת ים",
-      "neighborhood": "דרום חדש, פארק הים",
-      "street": "הפריגטה",
-      "address": "הפריגטה, דרום חדש, פארק הים, בת ים",
-      "lat": 32.0005760714286,
-      "lon": 34.739414,
-      "image": "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010363_20260715103713.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010363_20260715103713.jpeg",
-        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010005_20260715103718.jpeg",
-        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010407_20260715103719.jpeg",
-        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010657_20260715103719.jpeg",
-        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010237_20260715103719.jpeg",
-        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010032_20260715103719.jpeg",
-        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010853_20260715103719.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/5ah32p4a",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "sfs1hw9u",
@@ -2580,7 +2391,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/sfs1hw9u",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "q192kf4p",
@@ -2612,7 +2423,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/q192kf4p",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9emlmh6p",
@@ -2641,7 +2452,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/9emlmh6p",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "wjmb0r5j",
@@ -2668,7 +2479,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/wjmb0r5j",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "mbf0rquj",
@@ -2696,7 +2507,36 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/mbf0rquj",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "5ah32p4a",
+      "token": "5ah32p4a",
+      "price": 7500,
+      "rooms": 4,
+      "sqm": 116,
+      "floor": 4,
+      "city": "בת ים",
+      "neighborhood": "דרום חדש, פארק הים",
+      "street": "הפריגטה",
+      "address": "הפריגטה, דרום חדש, פארק הים, בת ים",
+      "lat": 32.0005760714286,
+      "lon": 34.739414,
+      "image": "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010363_20260715103713.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010363_20260715103713.jpeg",
+        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010005_20260715103718.jpeg",
+        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010407_20260715103719.jpeg",
+        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010657_20260715103719.jpeg",
+        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010237_20260715103719.jpeg",
+        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010032_20260715103719.jpeg",
+        "https://img.yad2.co.il/Pic/202607/15/2_6/o/y2_1pa_010853_20260715103719.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/5ah32p4a",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "9tiq2y25",
@@ -2727,7 +2567,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/9tiq2y25",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "omj1v5fz",
@@ -2758,37 +2598,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/omj1v5fz",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "jkiae1p8",
-      "token": "jkiae1p8",
-      "price": 7500,
-      "rooms": 4,
-      "sqm": 90,
-      "floor": 5,
-      "city": "תל אביב יפו",
-      "neighborhood": "נווה חן",
-      "street": "מעפילי אגוז",
-      "address": "מעפילי אגוז 27, נווה חן, תל אביב יפו",
-      "lat": 32.051401,
-      "lon": 34.811269,
-      "image": "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_8_Ws0tmj0wKq_20230719.jpg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_8_Ws0tmj0wKq_20230719.jpg",
-        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_7_ZMxNM80oIw_20230719.jpg",
-        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_1_r1tyL3S7NH_20230719.jpg",
-        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_2_pYJOUPK_xP_20230719.jpg",
-        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_5_EAC5NgoAIC_20230719.jpg",
-        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_4_5dtwRosv_v_20230719.jpg",
-        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_6_XBMvm9uAxh_20230719.jpg",
-        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_9_25X3HoRMIn_20230719.jpg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/jkiae1p8",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "h6mayduj",
@@ -2808,7 +2618,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/h6mayduj",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "wgg1rbhi",
@@ -2840,7 +2650,37 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/wgg1rbhi",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "jkiae1p8",
+      "token": "jkiae1p8",
+      "price": 7500,
+      "rooms": 4,
+      "sqm": 90,
+      "floor": 5,
+      "city": "תל אביב יפו",
+      "neighborhood": "נווה חן",
+      "street": "מעפילי אגוז",
+      "address": "מעפילי אגוז 27, נווה חן, תל אביב יפו",
+      "lat": 32.051401,
+      "lon": 34.811269,
+      "image": "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_8_Ws0tmj0wKq_20230719.jpg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_8_Ws0tmj0wKq_20230719.jpg",
+        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_7_ZMxNM80oIw_20230719.jpg",
+        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_1_r1tyL3S7NH_20230719.jpg",
+        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_2_pYJOUPK_xP_20230719.jpg",
+        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_5_EAC5NgoAIC_20230719.jpg",
+        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_4_5dtwRosv_v_20230719.jpg",
+        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_6_XBMvm9uAxh_20230719.jpg",
+        "https://img.yad2.co.il/Pic/202307/19/2_6/o/y2_9_25X3HoRMIn_20230719.jpg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/jkiae1p8",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "8vqttbqs",
@@ -2870,7 +2710,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/8vqttbqs",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2u61vdvj",
@@ -2897,7 +2737,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/2u61vdvj",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "yjm0t5jh",
@@ -2932,7 +2772,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/yjm0t5jh",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "oorkilx7",
@@ -2963,40 +2803,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/oorkilx7",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "jofy3g40",
-      "token": "jofy3g40",
-      "price": 7500,
-      "rooms": 4,
-      "sqm": 103,
-      "floor": 6,
-      "city": "בת ים",
-      "neighborhood": "דרום מזרח",
-      "street": "אנה פרנק",
-      "address": "אנה פרנק 14, דרום מזרח, בת ים",
-      "lat": 32.004774,
-      "lon": 34.753985,
-      "image": "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010413_20260803084812.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010413_20260803084812.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010666_20260803084812.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010818_20260803084812.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010060_20260803084812.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010611_20260803084812.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010897_20260803084812.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010119_20260803084812.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010352_20260803084812.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010124_20260803084812.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010615_20260803084813.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010957_20260803084813.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/jofy3g40",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5jadp0mm",
@@ -3032,7 +2839,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/5jadp0mm",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "sqsd31a3",
@@ -3052,7 +2859,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/sqsd31a3",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4c98npxt",
@@ -3086,120 +2893,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/4c98npxt",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "vzp7xwel",
-      "token": "vzp7xwel",
-      "price": 7600,
-      "rooms": 4,
-      "sqm": 90,
-      "floor": 8,
-      "city": "רמת גן",
-      "neighborhood": "שכונת בן גוריון, מרכז העיר ג'",
-      "street": "שדרת התמרים",
-      "address": "שדרת התמרים 1, שכונת בן גוריון, מרכז העיר ג', רמת גן",
-      "lat": 32.090321,
-      "lon": 34.821577,
-      "image": "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010622_20260808133623.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010622_20260808133623.jpeg",
-        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010294_20260808133623.jpeg",
-        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010810_20260808133623.jpeg",
-        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010015_20260808133624.jpeg"
-      ],
-      "tags": [],
-      "adType": "private",
-      "url": "https://www.yad2.co.il/realestate/item/vzp7xwel",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "8kfvnkon",
-      "token": "8kfvnkon",
-      "price": 7600,
-      "rooms": 4,
-      "sqm": 102,
-      "floor": 18,
-      "city": "בת ים",
-      "neighborhood": "",
-      "street": "השבטים",
-      "address": "השבטים, בת ים",
-      "lat": 32.004315,
-      "lon": 34.7494133333333,
-      "image": "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010855_20260728182052.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010855_20260728182052.jpeg",
-        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010930_20260728182048.jpeg",
-        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010304_20260728182058.jpeg",
-        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010175_20260728182051.jpeg",
-        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010925_20260728182051.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/8kfvnkon",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "jyvdb9ml",
-      "token": "jyvdb9ml",
-      "price": 7600,
-      "rooms": 4,
-      "sqm": 113,
-      "floor": 18,
-      "city": "בת ים",
-      "neighborhood": "",
-      "street": "",
-      "address": "בת ים",
-      "lat": 32.013199,
-      "lon": 34.747733,
-      "image": "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010962_20260804164304.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010962_20260804164304.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010951_20260804164303.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010329_20260804164304.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010162_20260804164303.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010424_20260804164303.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010644_20260804164308.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010005_20260804164310.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010425_20260804164310.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010583_20260804164309.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010046_20260804164309.jpeg",
-        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010635_20260804164313.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/jyvdb9ml",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "e4thvxzb",
-      "token": "e4thvxzb",
-      "price": 7600,
-      "rooms": 4,
-      "sqm": 103,
-      "floor": 18,
-      "city": "בת ים",
-      "neighborhood": "דרום מזרח",
-      "street": "השבטים",
-      "address": "השבטים 10, דרום מזרח, בת ים",
-      "lat": 32.004174,
-      "lon": 34.749001,
-      "image": "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_5_GTEQwf23Nd_20260809.jpg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_5_GTEQwf23Nd_20260809.jpg",
-        "https://img.yad2.co.il/Pic/202607/31/2_6/o/y2_2_tEGOo3wLoe_20260731.jpeg",
-        "https://img.yad2.co.il/Pic/202607/31/2_6/o/y2_3_5Qw8dM5z8Y_20260731.jpeg",
-        "https://img.yad2.co.il/Pic/202607/31/2_6/o/y2_4_E6j6E5v0bj_20260731.jpeg",
-        "https://img.yad2.co.il/Pic/202607/31/2_6/o/y2_5_DSVwGk0Ls9_20260731.jpg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/e4thvxzb",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2po4c1fm",
@@ -3233,7 +2927,120 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/2po4c1fm",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "vzp7xwel",
+      "token": "vzp7xwel",
+      "price": 7600,
+      "rooms": 4,
+      "sqm": 90,
+      "floor": 8,
+      "city": "רמת גן",
+      "neighborhood": "שכונת בן גוריון, מרכז העיר ג'",
+      "street": "שדרת התמרים",
+      "address": "שדרת התמרים 1, שכונת בן גוריון, מרכז העיר ג', רמת גן",
+      "lat": 32.090321,
+      "lon": 34.821577,
+      "image": "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010622_20260808133623.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010622_20260808133623.jpeg",
+        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010294_20260808133623.jpeg",
+        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010810_20260808133623.jpeg",
+        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1pa_010015_20260808133624.jpeg"
+      ],
+      "tags": [],
+      "adType": "private",
+      "url": "https://www.yad2.co.il/realestate/item/vzp7xwel",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "8kfvnkon",
+      "token": "8kfvnkon",
+      "price": 7600,
+      "rooms": 4,
+      "sqm": 102,
+      "floor": 18,
+      "city": "בת ים",
+      "neighborhood": "",
+      "street": "השבטים",
+      "address": "השבטים, בת ים",
+      "lat": 32.004315,
+      "lon": 34.7494133333333,
+      "image": "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010855_20260728182052.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010855_20260728182052.jpeg",
+        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010930_20260728182048.jpeg",
+        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010304_20260728182058.jpeg",
+        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010175_20260728182051.jpeg",
+        "https://img.yad2.co.il/Pic/202607/28/2_6/o/y2_1pa_010925_20260728182051.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/8kfvnkon",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "jyvdb9ml",
+      "token": "jyvdb9ml",
+      "price": 7600,
+      "rooms": 4,
+      "sqm": 113,
+      "floor": 18,
+      "city": "בת ים",
+      "neighborhood": "",
+      "street": "",
+      "address": "בת ים",
+      "lat": 32.013199,
+      "lon": 34.747733,
+      "image": "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010962_20260804164304.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010962_20260804164304.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010951_20260804164303.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010329_20260804164304.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010162_20260804164303.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010424_20260804164303.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010644_20260804164308.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010005_20260804164310.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010425_20260804164310.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010583_20260804164309.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010046_20260804164309.jpeg",
+        "https://img.yad2.co.il/Pic/202608/04/2_6/o/y2_1pa_010635_20260804164313.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/jyvdb9ml",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "e4thvxzb",
+      "token": "e4thvxzb",
+      "price": 7600,
+      "rooms": 4,
+      "sqm": 103,
+      "floor": 18,
+      "city": "בת ים",
+      "neighborhood": "דרום מזרח",
+      "street": "השבטים",
+      "address": "השבטים 10, דרום מזרח, בת ים",
+      "lat": 32.004174,
+      "lon": 34.749001,
+      "image": "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_5_GTEQwf23Nd_20260809.jpg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_5_GTEQwf23Nd_20260809.jpg",
+        "https://img.yad2.co.il/Pic/202607/31/2_6/o/y2_2_tEGOo3wLoe_20260731.jpeg",
+        "https://img.yad2.co.il/Pic/202607/31/2_6/o/y2_3_5Qw8dM5z8Y_20260731.jpeg",
+        "https://img.yad2.co.il/Pic/202607/31/2_6/o/y2_4_E6j6E5v0bj_20260731.jpeg",
+        "https://img.yad2.co.il/Pic/202607/31/2_6/o/y2_5_DSVwGk0Ls9_20260731.jpg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/e4thvxzb",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "oqn1xzxy",
@@ -3264,7 +3071,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/oqn1xzxy",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1claa09s",
@@ -3295,7 +3102,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/1claa09s",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "h1sevhy7",
@@ -3326,7 +3133,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/h1sevhy7",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "nfgp0y2j",
@@ -3353,7 +3160,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/nfgp0y2j",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0cfhwsfv",
@@ -3376,7 +3183,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/0cfhwsfv",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2knnxp64",
@@ -3407,7 +3214,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/2knnxp64",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "i2b6etvj",
@@ -3441,7 +3248,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/i2b6etvj",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bc6x1xuh",
@@ -3473,7 +3280,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/bc6x1xuh",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "l2bowb8p",
@@ -3504,7 +3311,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/l2bowb8p",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "oitbj4zc",
@@ -3540,37 +3347,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/oitbj4zc",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "xcj2mwy1",
-      "token": "xcj2mwy1",
-      "price": 7800,
-      "rooms": 4,
-      "sqm": 126,
-      "floor": 13,
-      "city": "בת ים",
-      "neighborhood": "רמת יוסף",
-      "street": "כצנלסון",
-      "address": "כצנלסון, רמת יוסף, בת ים",
-      "lat": 32.0208227948718,
-      "lon": 34.7544927435898,
-      "image": "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010305_20260803173651.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010305_20260803173651.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010158_20260803173651.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010035_20260803173653.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010307_20260803173652.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010371_20260803173651.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010076_20260803173651.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010322_20260803173651.jpeg",
-        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010195_20260803173652.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/xcj2mwy1",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bp6lc71p",
@@ -3597,7 +3374,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/bp6lc71p",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3sr0bqsp",
@@ -3629,7 +3406,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/3sr0bqsp",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "idy9r0wm",
@@ -3660,7 +3437,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/idy9r0wm",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "91zukd72",
@@ -3688,7 +3465,37 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/91zukd72",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "xcj2mwy1",
+      "token": "xcj2mwy1",
+      "price": 7800,
+      "rooms": 4,
+      "sqm": 126,
+      "floor": 13,
+      "city": "בת ים",
+      "neighborhood": "רמת יוסף",
+      "street": "כצנלסון",
+      "address": "כצנלסון, רמת יוסף, בת ים",
+      "lat": 32.0208227948718,
+      "lon": 34.7544927435898,
+      "image": "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010305_20260803173651.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010305_20260803173651.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010158_20260803173651.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010035_20260803173653.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010307_20260803173652.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010371_20260803173651.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010076_20260803173651.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010322_20260803173651.jpeg",
+        "https://img.yad2.co.il/Pic/202608/03/2_6/o/y2_1pa_010195_20260803173652.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/xcj2mwy1",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "5989d0d5",
@@ -3720,7 +3527,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/5989d0d5",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bselzw20",
@@ -3747,7 +3554,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/bselzw20",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ajy282da",
@@ -3779,7 +3586,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/ajy282da",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ses6w44l",
@@ -3809,7 +3616,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/ses6w44l",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "si1wobw1",
@@ -3836,7 +3643,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/si1wobw1",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xxmpeas6",
@@ -3869,7 +3676,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/xxmpeas6",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fx0kxqy9",
@@ -3905,7 +3712,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/fx0kxqy9",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "k6zsqn9l",
@@ -3928,7 +3735,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/k6zsqn9l",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pe0ze4cc",
@@ -3960,7 +3767,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/pe0ze4cc",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fo20jmoq",
@@ -3989,7 +3796,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/fo20jmoq",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "332081rn",
@@ -4018,7 +3825,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/332081rn",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1z9h981f",
@@ -4043,7 +3850,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/1z9h981f",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "uinx4ff8",
@@ -4074,7 +3881,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/uinx4ff8",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5702mphe",
@@ -4101,7 +3908,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/5702mphe",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "iwqr2efa",
@@ -4137,7 +3944,37 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/iwqr2efa",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "ccbkhv97",
+      "token": "ccbkhv97",
+      "price": 7950,
+      "rooms": 4,
+      "sqm": 112,
+      "floor": 5,
+      "city": "תל אביב יפו",
+      "neighborhood": "נווה גולן, יפו ג'",
+      "street": "סהרון",
+      "address": "סהרון 12, נווה גולן, יפו ג', תל אביב יפו",
+      "lat": 32.034557,
+      "lon": 34.750454,
+      "image": "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010878_20260810183209.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010878_20260810183209.jpeg",
+        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010508_20260810183209.jpeg",
+        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010441_20260810183209.jpeg",
+        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010645_20260810183210.jpeg",
+        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010526_20260810183209.jpeg",
+        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010698_20260810183209.jpeg",
+        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010252_20260810183210.jpeg",
+        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010265_20260810183210.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/ccbkhv97",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "eptz4bh5",
@@ -4169,37 +4006,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/eptz4bh5",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "ccbkhv97",
-      "token": "ccbkhv97",
-      "price": 7950,
-      "rooms": 4,
-      "sqm": 112,
-      "floor": 5,
-      "city": "תל אביב יפו",
-      "neighborhood": "נווה גולן, יפו ג'",
-      "street": "סהרון",
-      "address": "סהרון 12, נווה גולן, יפו ג', תל אביב יפו",
-      "lat": 32.034557,
-      "lon": 34.750454,
-      "image": "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010878_20260810183209.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010878_20260810183209.jpeg",
-        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010508_20260810183209.jpeg",
-        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010441_20260810183209.jpeg",
-        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010645_20260810183210.jpeg",
-        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010526_20260810183209.jpeg",
-        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010698_20260810183209.jpeg",
-        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010252_20260810183210.jpeg",
-        "https://img.yad2.co.il/Pic/202608/10/2_6/o/y2_1pa_010265_20260810183210.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/ccbkhv97",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "h5qersh3",
@@ -4233,7 +4040,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/h5qersh3",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "q44u2gwh",
@@ -4269,7 +4076,154 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/q44u2gwh",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "olvo05hx",
+      "token": "olvo05hx",
+      "price": 8000,
+      "rooms": 4,
+      "sqm": 110,
+      "floor": 16,
+      "city": "בת ים",
+      "neighborhood": "",
+      "street": "",
+      "address": "בת ים",
+      "lat": 32.013199,
+      "lon": 34.747733,
+      "image": "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_3_w6FAGYvQDM_20260806.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_3_w6FAGYvQDM_20260806.jpeg",
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_5_EayPa_n84v_20260806.jpeg",
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_2_yyoijMSPtY_20260806.jpeg",
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_7_AGz_aG9ZyK_20260806.jpeg",
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_8_ZzScrqcXk5_20260806.jpeg",
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_9_AgusmKJr5V_20260806.jpeg",
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_10_5CKioeaL7n_20260806.jpeg",
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_11_2RJeSC5ces_20260806.jpeg",
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_12_jx5kqQBsJ6_20260806.jpeg",
+        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_13_qb3wPDgjLQ_20260806.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/olvo05hx",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "rttmkod9",
+      "token": "rttmkod9",
+      "price": 8000,
+      "rooms": 4,
+      "sqm": 113,
+      "floor": 14,
+      "city": "בת ים",
+      "neighborhood": "דרום מזרח",
+      "street": "השבטים",
+      "address": "השבטים 10, דרום מזרח, בת ים",
+      "lat": 32.004174,
+      "lon": 34.749001,
+      "image": "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010058_20260805183049.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010058_20260805183049.jpeg",
+        "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010284_20260805183049.jpeg",
+        "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010824_20260805183049.jpeg",
+        "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010353_20260805183049.jpeg"
+      ],
+      "tags": [
+        "חדש מקבלן",
+        "חניה"
+      ],
+      "adType": "private",
+      "url": "https://www.yad2.co.il/realestate/item/rttmkod9",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "70rn10da",
+      "token": "70rn10da",
+      "price": 8000,
+      "rooms": 4,
+      "sqm": 110,
+      "floor": 1,
+      "city": "חולון",
+      "neighborhood": "מרכז, קרית עבודה",
+      "street": "ביאליק",
+      "address": "ביאליק 94, מרכז, קרית עבודה, חולון",
+      "lat": 32.014907,
+      "lon": 34.772306,
+      "image": "https://img.yad2.co.il/Pic/202607/29/2_2/o/y2_1pa_010974_20260729170957.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202607/29/2_2/o/y2_1pa_010974_20260729170957.jpeg",
+        "https://img.yad2.co.il/Pic/202607/29/2_2/o/y2_1pa_010976_20260729170956.jpeg",
+        "https://img.yad2.co.il/Pic/202607/29/2_2/o/y2_1pa_010569_20260729171013.jpeg"
+      ],
+      "tags": [
+        "חניה",
+        "3 כיווני אוויר"
+      ],
+      "adType": "private",
+      "url": "https://www.yad2.co.il/realestate/item/70rn10da",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "7voic8hz",
+      "token": "7voic8hz",
+      "price": 8000,
+      "rooms": 4,
+      "sqm": 113,
+      "floor": 21,
+      "city": "בת ים",
+      "neighborhood": "דרום מזרח",
+      "street": "השבטים",
+      "address": "השבטים 10, דרום מזרח, בת ים",
+      "lat": 32.004174,
+      "lon": 34.749001,
+      "image": "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010905_20260809193458.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010905_20260809193458.jpeg",
+        "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010607_20260809193459.jpeg",
+        "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010534_20260809193459.jpeg",
+        "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010636_20260809193459.jpeg",
+        "https://img.yad2.co.il/Pic/202608/11/2_2/o/y2_5_02778_20260811134506.jpeg"
+      ],
+      "tags": [],
+      "adType": "private",
+      "url": "https://www.yad2.co.il/realestate/item/7voic8hz",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "yaephtw9",
+      "token": "yaephtw9",
+      "price": 8000,
+      "rooms": 4,
+      "sqm": 92,
+      "floor": 1,
+      "city": "רמת גן",
+      "neighborhood": "מרום נווה, רמת יצחק",
+      "street": "תרצה",
+      "address": "תרצה 4, מרום נווה, רמת יצחק, רמת גן",
+      "lat": 32.075309,
+      "lon": 34.828851,
+      "image": "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1_07566_20260808223455.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1_07566_20260808223455.jpeg",
+        "https://img.yad2.co.il/Pic/202607/30/2_2/o/y2_1pa_010972_20260730105710.jpeg",
+        "https://img.yad2.co.il/Pic/202607/30/2_2/o/y2_1pa_010775_20260730105710.jpeg",
+        "https://img.yad2.co.il/Pic/202607/30/2_2/o/y2_1pa_010744_20260730105710.jpeg",
+        "https://img.yad2.co.il/Pic/202607/30/2_2/o/y2_1pa_010355_20260730105710.jpeg",
+        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_6_05559_20260808223458.jpeg",
+        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_7_04734_20260808223501.jpeg",
+        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_8_08604_20260808223504.jpeg",
+        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_9_09405_20260808223507.jpeg"
+      ],
+      "tags": [],
+      "adType": "private",
+      "url": "https://www.yad2.co.il/realestate/item/yaephtw9",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "nvmbws69",
@@ -4301,7 +4255,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/nvmbws69",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2guhtmb2",
@@ -4330,122 +4284,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/2guhtmb2",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "rttmkod9",
-      "token": "rttmkod9",
-      "price": 8000,
-      "rooms": 4,
-      "sqm": 113,
-      "floor": 14,
-      "city": "בת ים",
-      "neighborhood": "דרום מזרח",
-      "street": "השבטים",
-      "address": "השבטים 10, דרום מזרח, בת ים",
-      "lat": 32.004174,
-      "lon": 34.749001,
-      "image": "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010058_20260805183049.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010058_20260805183049.jpeg",
-        "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010284_20260805183049.jpeg",
-        "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010824_20260805183049.jpeg",
-        "https://img.yad2.co.il/Pic/202608/05/2_2/o/y2_1pa_010353_20260805183049.jpeg"
-      ],
-      "tags": [
-        "חדש מקבלן",
-        "חניה"
-      ],
-      "adType": "private",
-      "url": "https://www.yad2.co.il/realestate/item/rttmkod9",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "70rn10da",
-      "token": "70rn10da",
-      "price": 8000,
-      "rooms": 4,
-      "sqm": 110,
-      "floor": 1,
-      "city": "חולון",
-      "neighborhood": "מרכז, קרית עבודה",
-      "street": "ביאליק",
-      "address": "ביאליק 94, מרכז, קרית עבודה, חולון",
-      "lat": 32.014907,
-      "lon": 34.772306,
-      "image": "https://img.yad2.co.il/Pic/202607/29/2_2/o/y2_1pa_010974_20260729170957.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202607/29/2_2/o/y2_1pa_010974_20260729170957.jpeg",
-        "https://img.yad2.co.il/Pic/202607/29/2_2/o/y2_1pa_010976_20260729170956.jpeg",
-        "https://img.yad2.co.il/Pic/202607/29/2_2/o/y2_1pa_010569_20260729171013.jpeg"
-      ],
-      "tags": [
-        "חניה",
-        "3 כיווני אוויר"
-      ],
-      "adType": "private",
-      "url": "https://www.yad2.co.il/realestate/item/70rn10da",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "7voic8hz",
-      "token": "7voic8hz",
-      "price": 8000,
-      "rooms": 4,
-      "sqm": 113,
-      "floor": 21,
-      "city": "בת ים",
-      "neighborhood": "דרום מזרח",
-      "street": "השבטים",
-      "address": "השבטים 10, דרום מזרח, בת ים",
-      "lat": 32.004174,
-      "lon": 34.749001,
-      "image": "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010905_20260809193458.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010905_20260809193458.jpeg",
-        "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010607_20260809193459.jpeg",
-        "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010534_20260809193459.jpeg",
-        "https://img.yad2.co.il/Pic/202608/09/2_2/o/y2_1pa_010636_20260809193459.jpeg",
-        "https://img.yad2.co.il/Pic/202608/11/2_2/o/y2_5_02778_20260811134506.jpeg"
-      ],
-      "tags": [],
-      "adType": "private",
-      "url": "https://www.yad2.co.il/realestate/item/7voic8hz",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "yaephtw9",
-      "token": "yaephtw9",
-      "price": 8000,
-      "rooms": 4,
-      "sqm": 92,
-      "floor": 1,
-      "city": "רמת גן",
-      "neighborhood": "מרום נווה, רמת יצחק",
-      "street": "תרצה",
-      "address": "תרצה 4, מרום נווה, רמת יצחק, רמת גן",
-      "lat": 32.075309,
-      "lon": 34.828851,
-      "image": "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1_07566_20260808223455.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_1_07566_20260808223455.jpeg",
-        "https://img.yad2.co.il/Pic/202607/30/2_2/o/y2_1pa_010972_20260730105710.jpeg",
-        "https://img.yad2.co.il/Pic/202607/30/2_2/o/y2_1pa_010775_20260730105710.jpeg",
-        "https://img.yad2.co.il/Pic/202607/30/2_2/o/y2_1pa_010744_20260730105710.jpeg",
-        "https://img.yad2.co.il/Pic/202607/30/2_2/o/y2_1pa_010355_20260730105710.jpeg",
-        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_6_05559_20260808223458.jpeg",
-        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_7_04734_20260808223501.jpeg",
-        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_8_08604_20260808223504.jpeg",
-        "https://img.yad2.co.il/Pic/202608/08/2_2/o/y2_9_09405_20260808223507.jpeg"
-      ],
-      "tags": [],
-      "adType": "private",
-      "url": "https://www.yad2.co.il/realestate/item/yaephtw9",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "m7gt1sph",
@@ -4472,7 +4311,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/m7gt1sph",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "141zhua0",
@@ -4504,34 +4343,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/141zhua0",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "2yvvz80q",
-      "token": "2yvvz80q",
-      "price": 8000,
-      "rooms": 4,
-      "sqm": 126,
-      "floor": 10,
-      "city": "בת ים",
-      "neighborhood": "",
-      "street": "",
-      "address": "בת ים",
-      "lat": 32.013199,
-      "lon": 34.747733,
-      "image": "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010887_20260809164100.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010887_20260809164100.jpeg",
-        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010839_20260809164101.jpeg",
-        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010019_20260809164100.jpeg",
-        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010575_20260809164100.jpeg",
-        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010204_20260809164101.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/2yvvz80q",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "whyjy9bl",
@@ -4554,7 +4366,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/whyjy9bl",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "w69ghn9h",
@@ -4586,7 +4398,34 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/w69ghn9h",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "2yvvz80q",
+      "token": "2yvvz80q",
+      "price": 8000,
+      "rooms": 4,
+      "sqm": 126,
+      "floor": 10,
+      "city": "בת ים",
+      "neighborhood": "",
+      "street": "",
+      "address": "בת ים",
+      "lat": 32.013199,
+      "lon": 34.747733,
+      "image": "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010887_20260809164100.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010887_20260809164100.jpeg",
+        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010839_20260809164101.jpeg",
+        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010019_20260809164100.jpeg",
+        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010575_20260809164100.jpeg",
+        "https://img.yad2.co.il/Pic/202608/09/2_6/o/y2_1pa_010204_20260809164101.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/2yvvz80q",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "nffsf3as",
@@ -4614,7 +4453,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/nffsf3as",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6w1bgep4",
@@ -4644,7 +4483,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/6w1bgep4",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "vhe4kzeu",
@@ -4679,7 +4518,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/vhe4kzeu",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "gebmufuq",
@@ -4716,7 +4555,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/gebmufuq",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "05e34qkj",
@@ -4752,39 +4591,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/05e34qkj",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "2scndsf4",
-      "token": "2scndsf4",
-      "price": 8000,
-      "rooms": 4,
-      "sqm": 110,
-      "floor": 4,
-      "city": "רמת גן",
-      "neighborhood": "נגבה",
-      "street": "החי\"ל",
-      "address": "החי\"ל, נגבה, רמת גן",
-      "lat": 32.0678476153846,
-      "lon": 34.825471474359,
-      "image": "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010659_20260704232059.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010659_20260704232059.jpeg",
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010153_20260704232123.jpeg",
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010355_20260704232139.jpeg",
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010068_20260704232156.jpeg",
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010633_20260704232213.jpeg",
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010313_20260704232218.jpeg",
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010621_20260704232215.jpeg",
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010100_20260704232251.jpeg",
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010759_20260704232246.jpeg",
-        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010660_20260704232248.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/2scndsf4",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "t70rmizd",
@@ -4814,7 +4621,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/t70rmizd",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "qx5zaebu",
@@ -4846,7 +4653,7 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/qx5zaebu",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "in1taecr",
@@ -4875,7 +4682,39 @@
       "adType": "private",
       "url": "https://www.yad2.co.il/realestate/item/in1taecr",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "2scndsf4",
+      "token": "2scndsf4",
+      "price": 8000,
+      "rooms": 4,
+      "sqm": 110,
+      "floor": 4,
+      "city": "רמת גן",
+      "neighborhood": "נגבה",
+      "street": "החי\"ל",
+      "address": "החי\"ל, נגבה, רמת גן",
+      "lat": 32.0678476153846,
+      "lon": 34.825471474359,
+      "image": "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010659_20260704232059.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010659_20260704232059.jpeg",
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010153_20260704232123.jpeg",
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010355_20260704232139.jpeg",
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010068_20260704232156.jpeg",
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010633_20260704232213.jpeg",
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010313_20260704232218.jpeg",
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010621_20260704232215.jpeg",
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010100_20260704232251.jpeg",
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010759_20260704232246.jpeg",
+        "https://img.yad2.co.il/Pic/202607/04/2_6/o/y2_1pa_010660_20260704232248.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/2scndsf4",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     },
     {
       "id": "wu6zdijg",
@@ -4912,39 +4751,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/wu6zdijg",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
-    },
-    {
-      "id": "olvo05hx",
-      "token": "olvo05hx",
-      "price": 8000,
-      "rooms": 4,
-      "sqm": 110,
-      "floor": 16,
-      "city": "בת ים",
-      "neighborhood": "",
-      "street": "",
-      "address": "בת ים",
-      "lat": 32.013199,
-      "lon": 34.747733,
-      "image": "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_3_w6FAGYvQDM_20260806.jpeg",
-      "images": [
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_3_w6FAGYvQDM_20260806.jpeg",
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_5_EayPa_n84v_20260806.jpeg",
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_2_yyoijMSPtY_20260806.jpeg",
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_7_AGz_aG9ZyK_20260806.jpeg",
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_8_ZzScrqcXk5_20260806.jpeg",
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_9_AgusmKJr5V_20260806.jpeg",
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_10_5CKioeaL7n_20260806.jpeg",
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_11_2RJeSC5ces_20260806.jpeg",
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_12_jx5kqQBsJ6_20260806.jpeg",
-        "https://img.yad2.co.il/Pic/202608/06/2_6/o/y2_13_qb3wPDgjLQ_20260806.jpeg"
-      ],
-      "tags": [],
-      "adType": "commercial",
-      "url": "https://www.yad2.co.il/realestate/item/olvo05hx",
-      "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8abzjl4a",
@@ -4977,7 +4784,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/8abzjl4a",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "i1fuec59",
@@ -5011,7 +4818,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/i1fuec59",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ikjvn82l",
@@ -5040,7 +4847,7 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/ikjvn82l",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "mi20tzo5",
@@ -5072,7 +4879,200 @@
       "adType": "commercial",
       "url": "https://www.yad2.co.il/realestate/item/mi20tzo5",
       "firstSeen": "2026-08-11T15:34:39.689Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "05xa7p45",
+      "token": "05xa7p45",
+      "price": 0,
+      "rooms": 4,
+      "sqm": 110,
+      "floor": 5,
+      "city": "רמת גן",
+      "neighborhood": "שכונת הלל",
+      "street": "",
+      "address": "שכונת הלל, רמת גן",
+      "lat": 32.08205,
+      "lon": 34.822734,
+      "image": "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_993832_20260725111810.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_993832_20260725111810.jpeg",
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_996538_20260725111809.jpeg",
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_999059_20260725111810.jpeg",
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_995964_20260725111809.jpeg",
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_992618_20260725111810.jpeg",
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_991584_20260725111809.jpeg",
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_994872_20260725111809.jpeg",
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_996231_20260725111811.jpeg",
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_994982_20260725111820.jpeg",
+        "https://img.yad2.co.il/Pic/202607/25/2_6/o/y2_1pa_998313_20260725111821.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/05xa7p45",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "i0enklq6",
+      "token": "i0enklq6",
+      "price": 0,
+      "rooms": 4,
+      "sqm": 168,
+      "floor": 1,
+      "city": "תל אביב יפו",
+      "neighborhood": "צהלון, שיכוני חסכון",
+      "street": "מעפילי סלוודור",
+      "address": "מעפילי סלוודור, צהלון, שיכוני חסכון, תל אביב יפו",
+      "lat": 32.0450985909091,
+      "lon": 34.7531796363636,
+      "image": "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010705_20260119160346.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010705_20260119160346.jpeg",
+        "https://img.yad2.co.il/Pic/202603/23/2_6/o/y2_8_VAVYXji5cq_20260323.jpeg",
+        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010566_20260119160411.jpeg",
+        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010687_20260119160346.jpeg",
+        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010751_20260119160358.jpeg",
+        "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010338_20260119160351.jpeg",
+        "https://img.yad2.co.il/Pic/202603/23/2_6/o/y2_10_YQcLohZ_T4_20260323.jpeg",
+        "https://img.yad2.co.il/Pic/202603/23/2_6/o/y2_8_wPsT2clvR0_20260323.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/i0enklq6",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "ykbzo0qi",
+      "token": "ykbzo0qi",
+      "price": 0,
+      "rooms": 4,
+      "sqm": 90,
+      "floor": 17,
+      "city": "חולון",
+      "neighborhood": "ח-501",
+      "street": "יעקב פיכמן",
+      "address": "יעקב פיכמן 25, ח-501, חולון",
+      "lat": 32.014354,
+      "lon": 34.775313,
+      "image": "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010193_20260802161325.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010193_20260802161325.jpeg",
+        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010963_20260802161331.jpeg",
+        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010979_20260802161341.jpeg",
+        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010335_20260802161350.jpeg",
+        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_09999_20260802161408.jpeg",
+        "https://img.yad2.co.il/Pic/202608/02/2_2/o/y2_1pa_010738_20260802161627.jpeg"
+      ],
+      "tags": [],
+      "adType": "private",
+      "url": "https://www.yad2.co.il/realestate/item/ykbzo0qi",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "45hda6dj",
+      "token": "45hda6dj",
+      "price": 0,
+      "rooms": 4,
+      "sqm": 85,
+      "floor": 6,
+      "city": "רמת גן",
+      "neighborhood": "נווה יהושע, ערמונים",
+      "street": "החולה",
+      "address": "החולה 22, נווה יהושע, ערמונים, רמת גן",
+      "lat": 32.061969,
+      "lon": 34.834877,
+      "images": [],
+      "tags": [],
+      "adType": "private",
+      "url": "https://www.yad2.co.il/realestate/item/45hda6dj",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "w6kqdpnl",
+      "token": "w6kqdpnl",
+      "price": 0,
+      "rooms": 4,
+      "sqm": 178,
+      "floor": 37,
+      "city": "תל אביב יפו",
+      "neighborhood": "צמרות איילון, פארק צמרת",
+      "street": "ניסים אלוני",
+      "address": "ניסים אלוני, צמרות איילון, פארק צמרת, תל אביב יפו",
+      "lat": 32.0891571578947,
+      "lon": 34.7968812105263,
+      "image": "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010867_20260324211345.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010867_20260324211345.jpeg",
+        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010366_20260324211345.jpeg",
+        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010748_20260324211345.jpeg",
+        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010696_20260324211345.jpeg",
+        "https://img.yad2.co.il/Pic/202603/24/2_6/o/y2_1pa_010069_20260324211346.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/w6kqdpnl",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "ildwx278",
+      "token": "ildwx278",
+      "price": 0,
+      "rooms": 4,
+      "sqm": 140,
+      "floor": 35,
+      "city": "בת ים",
+      "neighborhood": "דרום חדש, פארק הים",
+      "street": "הקוממיות",
+      "address": "הקוממיות 14, דרום חדש, פארק הים, בת ים",
+      "lat": 32.006378,
+      "lon": 34.741547,
+      "image": "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_5_999681_20260603.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_5_999681_20260603.jpeg",
+        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_4_991439_20260603.jpeg",
+        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_13_993029_20260603.jpeg",
+        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_15_b_999436_20260603.jpeg",
+        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_6_992298_20260603.jpeg",
+        "https://img.yad2.co.il/Pic/202606/03/2_6/o/y2_14_992920_20260603.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/ildwx278",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
+    },
+    {
+      "id": "7meyc7to",
+      "token": "7meyc7to",
+      "price": 0,
+      "rooms": 4,
+      "sqm": 120,
+      "floor": 7,
+      "city": "בת ים",
+      "neighborhood": "דרום חדש, פארק הים",
+      "street": "אהוד מנור",
+      "address": "אהוד מנור 3, דרום חדש, פארק הים, בת ים",
+      "lat": 32.004645,
+      "lon": 34.740086,
+      "image": "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_3_RirIIC4SLS_20260526.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_3_RirIIC4SLS_20260526.jpeg",
+        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_4_7_6cgpgwGB_20260526.jpeg",
+        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_5_aaYqbSqYwh_20260526.jpeg",
+        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_6_L7HIGRR6WI_20260526.jpeg",
+        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_7_iupLfwTbec_20260526.jpeg",
+        "https://img.yad2.co.il/Pic/202605/26/2_6/o/y2_8_tGxAO22LdJ_20260526.jpeg"
+      ],
+      "tags": [],
+      "adType": "commercial",
+      "url": "https://www.yad2.co.il/realestate/item/7meyc7to",
+      "firstSeen": "2026-08-11T15:34:39.689Z",
+      "isNew": false
     }
   ]
 }
