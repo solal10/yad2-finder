@@ -26,6 +26,7 @@ const QUERY = [
   'region=3',
   'minRooms=4',
   'maxRooms=4',
+  'minPrice=6500',
   'maxPrice=8000',
   'parking=1',
   'elevator=1',
@@ -33,7 +34,7 @@ const QUERY = [
 ].join('&');
 
 const SEARCH_PAGE_URL =
-  'https://www.yad2.co.il/realestate/rent/tel-aviv-area?maxPrice=8000&minRooms=4&maxRooms=4&parking=1&elevator=1&shelter=1';
+  'https://www.yad2.co.il/realestate/rent/tel-aviv-area?minPrice=6500&maxPrice=8000&minRooms=4&maxRooms=4&parking=1&elevator=1&shelter=1';
 
 const log = (...a) => console.log(new Date().toISOString(), ...a);
 
@@ -168,6 +169,7 @@ function loadPrevious() {
       criteria: {
         area: 'תל אביב והסביבה (region 3)',
         rooms: 4,
+        minPrice: 6500,
         maxPrice: 8000,
         features: ['ממ"ד', 'חניה', 'מעלית'],
       },

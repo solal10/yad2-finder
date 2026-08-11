@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="he" dir="rtl">
+<html lang="fr" dir="ltr">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="theme-color" content="#0b0f19" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<title>דירות · תל אביב והסביבה</title>
+<title>Appartements · Tel-Aviv & environs</title>
 <style>
   :root {
     --bg: #0b0f19;
@@ -76,7 +76,8 @@
   .tags { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 5px; }
   .tags span { font-size: 11px; color: var(--accent); background: rgba(79,140,255,.1);
     border: 1px solid rgba(79,140,255,.3); border-radius: 999px; padding: 2px 8px; }
-  .foot { margin-top: 10px; font-size: 11px; color: var(--muted); display: flex; justify-content: space-between; }
+  .foot { margin-top: 10px; font-size: 11px; color: var(--muted); display: flex; justify-content: space-between; gap: 8px; }
+  .foot .city { direction: rtl; }
 
   .empty { text-align: center; color: var(--muted); padding: 60px 20px; }
   .refresh-fab {
@@ -91,29 +92,29 @@
 <body>
 <header>
   <div class="title">
-    <h1>דירות · תל אביב והסביבה</h1>
+    <h1>Appartements · Tel-Aviv & environs</h1>
     <div class="count" id="count">…</div>
   </div>
   <div class="sub">
-    <span class="chip">4 חדרים</span>
-    <span class="chip">עד ₪8,000</span>
-    <span class="chip">ממ״ד</span>
-    <span class="chip">חניה</span>
-    <span class="chip">מעלית</span>
+    <span class="chip">4 pièces</span>
+    <span class="chip">₪6 500 – 8 000</span>
+    <span class="chip">Mamad</span>
+    <span class="chip">Parking</span>
+    <span class="chip">Ascenseur</span>
   </div>
-  <div class="sub"><span id="updated" class="updated">טוען…</span></div>
+  <div class="sub"><span id="updated" class="updated">Chargement…</span></div>
   <div class="controls">
-    <button id="btnAll" class="on">הכל</button>
-    <button id="btnNew">חדשות בלבד</button>
-    <button id="btnPrice">מיון לפי מחיר</button>
+    <button id="btnAll" class="on">Tout</button>
+    <button id="btnNew">Nouvelles</button>
+    <button id="btnPrice">Trier par prix</button>
   </div>
 </header>
 
-<main id="list"><div class="empty">טוען דירות…</div></main>
-<button class="refresh-fab" id="fab" aria-label="רענן">⟳</button>
+<main id="list"><div class="empty">Chargement des annonces…</div></main>
+<button class="refresh-fab" id="fab" aria-label="Rafraîchir">⟳</button>
 
 <script>
-const NIS = (n) => n > 0 ? '₪' + n.toLocaleString('en-US') : 'ללא מחיר';
+const NIS = (n) => n > 0 ? '₪' + n.toLocaleString('fr-FR') : 'Prix non indiqué';
 let DATA = null;
 let filterNew = false;
 let sortPrice = false;
@@ -121,12 +122,12 @@ let sortPrice = false;
 function timeAgo(iso) {
   if (!iso) return '';
   const s = Math.floor((Date.now() - new Date(iso)) / 1000);
-  if (s < 90) return 'לפני רגע';
+  if (s < 90) return "à l'instant";
   const m = Math.floor(s / 60);
-  if (m < 60) return `לפני ${m} דק׳`;
+  if (m < 60) return `il y a ${m} min`;
   const h = Math.floor(m / 60);
-  if (h < 24) return `לפני ${h} שע׳`;
-  return `לפני ${Math.floor(h / 24)} ימים`;
+  if (h < 24) return `il y a ${h} h`;
+  return `il y a ${Math.floor(h / 24)} j`;
 }
 
 function render() {
@@ -140,15 +141,17 @@ function render() {
   }
 
   document.getElementById('count').innerHTML =
-    `${DATA.count} דירות · <b>${DATA.newCount} חדשות</b>`;
+    `${DATA.count} annonces · <b>${DATA.newCount} nouvelles</b>`;
 
   const upd = document.getElementById('updated');
   const ok = DATA.lastRunOk !== false;
   upd.className = ok ? 'updated' : 'stale';
-  upd.textContent = (ok ? 'עודכן ' : '⚠ עדכון אחרון נכשל · ') + 'עודכן ' + timeAgo(DATA.updatedAt);
+  upd.textContent = ok
+    ? 'Mis à jour ' + timeAgo(DATA.updatedAt)
+    : '⚠ Échec de la dernière mise à jour · données du ' + timeAgo(DATA.updatedAt);
 
   if (!items.length) {
-    list.innerHTML = '<div class="empty">אין דירות להצגה</div>';
+    list.innerHTML = '<div class="empty">Aucune annonce à afficher</div>';
     return;
   }
   list.innerHTML = items.map(cardHTML).join('');
@@ -156,27 +159,27 @@ function render() {
 
 function cardHTML(x) {
   const img = x.image
-    ? `<img loading="lazy" src="${x.image}" onerror="this.parentNode.innerHTML='<div class=noimg>אין תמונה</div>'" />`
-    : `<div class="noimg">אין תמונה</div>`;
+    ? `<img loading="lazy" src="${x.image}" onerror="this.parentNode.innerHTML='<div class=noimg>Pas de photo</div>'" />`
+    : `<div class="noimg">Pas de photo</div>`;
   const meta = [
-    x.rooms ? `${x.rooms} חד׳` : null,
-    x.sqm ? `${x.sqm} מ״ר` : null,
-    (x.floor != null) ? `קומה ${x.floor}` : null,
-    x.adType === 'private' ? 'פרטי' : (x.adType ? 'תיווך' : null),
+    x.rooms ? `${x.rooms} pièces` : null,
+    x.sqm ? `${x.sqm} m²` : null,
+    (x.floor != null) ? `Étage ${x.floor}` : null,
+    x.adType === 'private' ? 'Particulier' : (x.adType ? 'Agence' : null),
   ].filter(Boolean).map(t => `<span>${t}</span>`).join('');
-  const tags = (x.tags || []).slice(0, 4).map(t => `<span>${t}</span>`).join('');
+  const tags = (x.tags || []).slice(0, 4).map(t => `<span dir="rtl">${t}</span>`).join('');
   return `
   <a class="card" href="${x.url}" target="_blank" rel="noopener">
     <div class="photo">
       ${img}
       <div class="price">${NIS(x.price)}</div>
-      ${x.isNew ? '<div class="badge-new">חדש</div>' : ''}
+      ${x.isNew ? '<div class="badge-new">NOUVEAU</div>' : ''}
     </div>
     <div class="body">
-      <div class="addr" dir="rtl">${x.address || x.city || 'כתובת לא ידועה'}</div>
+      <div class="addr" dir="rtl">${x.address || x.city || 'Adresse inconnue'}</div>
       <div class="meta">${meta}</div>
       ${tags ? `<div class="tags">${tags}</div>` : ''}
-      <div class="foot"><span>${x.city || ''}</span><span>נצפה לראשונה ${timeAgo(x.firstSeen)}</span></div>
+      <div class="foot"><span class="city">${x.city || ''}</span><span>Vu ${timeAgo(x.firstSeen)}</span></div>
     </div>
   </a>`;
 }
@@ -190,7 +193,7 @@ async function load() {
     render();
   } catch (e) {
     if (!DATA) document.getElementById('list').innerHTML =
-      '<div class="empty">שגיאה בטעינת הנתונים</div>';
+      '<div class="empty">Erreur de chargement des données</div>';
   } finally {
     setTimeout(() => fab.classList.remove('spin'), 400);
   }
@@ -207,7 +210,7 @@ document.getElementById('btnPrice').onclick = () => { sortPrice = !sortPrice; se
 document.getElementById('fab').onclick = load;
 
 load();
-setInterval(load, 5 * 60 * 1000);          // refresh data every 5 min
+setInterval(load, 5 * 60 * 1000);          // rafraîchit les données toutes les 5 min
 document.addEventListener('visibilitychange', () => { if (!document.hidden) load(); });
 </script>
 </body>
