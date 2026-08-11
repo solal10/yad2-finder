@@ -43,9 +43,11 @@
   .controls { display: flex; gap: 8px; margin-top: 10px; }
   .controls button {
     flex: 1; background: var(--card2); color: var(--text); border: 1px solid var(--line);
-    border-radius: 10px; padding: 8px; font-size: 13px; font-weight: 600; cursor: pointer;
+    border-radius: 10px; padding: 8px 6px; font-size: 12.5px; font-weight: 600; cursor: pointer;
+    white-space: nowrap;
   }
   .controls button.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .controls button .badge { opacity: .8; font-weight: 700; }
 
   main { padding: 12px 12px 40px; display: grid; gap: 12px; max-width: 720px; margin: 0 auto; }
 
@@ -55,6 +57,7 @@
     transition: transform .08s ease;
   }
   .card:active { transform: scale(.99); }
+  .card.seen { opacity: .55; }
   .photo { position: relative; aspect-ratio: 16 / 10; background: var(--card2); overflow: hidden; }
   .photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .photo .noimg { display: flex; align-items: center; justify-content: center; height: 100%; color: var(--muted); font-size: 13px; }
@@ -68,6 +71,13 @@
     background: var(--new); color: #04210f; font-weight: 800; font-size: 11px;
     padding: 4px 9px; border-radius: 999px; letter-spacing: .3px;
   }
+  .seenbtn {
+    position: absolute; inset-block-start: 10px; inset-inline-start: 10px;
+    background: rgba(0,0,0,.66); backdrop-filter: blur(4px); color: #fff;
+    border: 1px solid rgba(255,255,255,.22); border-radius: 999px;
+    padding: 6px 12px; font-size: 12.5px; font-weight: 700; cursor: pointer; z-index: 5;
+  }
+  .seenbtn.undo { background: rgba(79,140,255,.9); border-color: transparent; }
   .body { padding: 11px 13px 13px; }
   .addr { font-size: 15px; font-weight: 650; line-height: 1.3; }
   .meta { margin-top: 7px; display: flex; flex-wrap: wrap; gap: 6px; }
@@ -104,9 +114,10 @@
   </div>
   <div class="sub"><span id="updated" class="updated">Chargement…</span></div>
   <div class="controls">
-    <button id="btnAll" class="on">Tout</button>
+    <button id="btnTodo" class="on">À voir</button>
     <button id="btnNew">Nouvelles</button>
-    <button id="btnPrice">Trier par prix</button>
+    <button id="btnSeen">Vues <span class="badge" id="seenCount"></span></button>
+    <button id="btnPrice">Prix</button>
   </div>
 </header>
 
@@ -116,8 +127,13 @@
 <script>
 const NIS = (n) => n > 0 ? '₪' + n.toLocaleString('fr-FR') : 'Prix non indiqué';
 let DATA = null;
-let filterNew = false;
+let view = 'todo';           // 'todo' | 'new' | 'seen'
 let sortPrice = false;
+
+// Annonces marquées "vues" — mémorisées sur cet appareil.
+let seen = new Set();
+try { seen = new Set(JSON.parse(localStorage.getItem('yad2_seen') || '[]')); } catch (_) {}
+function saveSeen() { localStorage.setItem('yad2_seen', JSON.stringify([...seen])); }
 
 function timeAgo(iso) {
   if (!iso) return '';
@@ -133,15 +149,24 @@ function timeAgo(iso) {
 function render() {
   if (!DATA) return;
   const list = document.getElementById('list');
-  let items = DATA.listings.slice();
-  if (filterNew) items = items.filter(x => x.isNew);
+  const all = DATA.listings || [];
+  const notSeen = all.filter(x => !seen.has(x.id));
+
+  let items;
+  if (view === 'seen') items = all.filter(x => seen.has(x.id));
+  else if (view === 'new') items = notSeen.filter(x => x.isNew);
+  else items = notSeen.slice();
+
   if (sortPrice) {
     const k = p => p > 0 ? p : Infinity;
     items.sort((a, b) => k(a.price) - k(b.price));
   }
 
+  const newToReview = notSeen.filter(x => x.isNew).length;
   document.getElementById('count').innerHTML =
-    `${DATA.count} annonces · <b>${DATA.newCount} nouvelles</b>`;
+    `${notSeen.length} à voir · <b>${newToReview} nouvelles</b>`;
+  const sc = all.filter(x => seen.has(x.id)).length;
+  document.getElementById('seenCount').textContent = sc ? `(${sc})` : '';
 
   const upd = document.getElementById('updated');
   const ok = DATA.lastRunOk !== false;
@@ -151,13 +176,17 @@ function render() {
     : '⚠ Échec de la dernière mise à jour · données du ' + timeAgo(DATA.updatedAt);
 
   if (!items.length) {
-    list.innerHTML = '<div class="empty">Aucune annonce à afficher</div>';
+    const msg = view === 'seen' ? 'Aucune annonce masquée'
+      : view === 'new' ? 'Aucune nouvelle annonce'
+      : 'Tout est vu 🎉';
+    list.innerHTML = `<div class="empty">${msg}</div>`;
     return;
   }
   list.innerHTML = items.map(cardHTML).join('');
 }
 
 function cardHTML(x) {
+  const isSeen = seen.has(x.id);
   const img = x.image
     ? `<img loading="lazy" src="${x.image}" onerror="this.parentNode.innerHTML='<div class=noimg>Pas de photo</div>'" />`
     : `<div class="noimg">Pas de photo</div>`;
@@ -168,12 +197,16 @@ function cardHTML(x) {
     x.adType === 'private' ? 'Particulier' : (x.adType ? 'Agence' : null),
   ].filter(Boolean).map(t => `<span>${t}</span>`).join('');
   const tags = (x.tags || []).slice(0, 4).map(t => `<span dir="rtl">${t}</span>`).join('');
+  const seenBtn = isSeen
+    ? `<span class="seenbtn undo" data-act="unsee" data-id="${x.id}">↩ Annuler</span>`
+    : `<span class="seenbtn" data-act="see" data-id="${x.id}">✓ Vu</span>`;
   return `
-  <a class="card" href="${x.url}" target="_blank" rel="noopener">
+  <a class="card ${isSeen ? 'seen' : ''}" href="${x.url}" target="_blank" rel="noopener">
     <div class="photo">
       ${img}
+      ${seenBtn}
       <div class="price">${NIS(x.price)}</div>
-      ${x.isNew ? '<div class="badge-new">NOUVEAU</div>' : ''}
+      ${x.isNew && !isSeen ? '<div class="badge-new">NOUVEAU</div>' : ''}
     </div>
     <div class="body">
       <div class="addr" dir="rtl">${x.address || x.city || 'Adresse inconnue'}</div>
@@ -183,6 +216,19 @@ function cardHTML(x) {
     </div>
   </a>`;
 }
+
+// Clic sur "Vu"/"Annuler" : on n'ouvre PAS l'annonce.
+document.getElementById('list').addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-act]');
+  if (!btn) return;
+  e.preventDefault();
+  e.stopPropagation();
+  const id = btn.dataset.id;
+  if (btn.dataset.act === 'see') seen.add(id);
+  else seen.delete(id);
+  saveSeen();
+  render();
+});
 
 async function load() {
   const fab = document.getElementById('fab');
@@ -200,12 +246,14 @@ async function load() {
 }
 
 function setBtns() {
-  document.getElementById('btnAll').classList.toggle('on', !filterNew);
-  document.getElementById('btnNew').classList.toggle('on', filterNew);
+  document.getElementById('btnTodo').classList.toggle('on', view === 'todo');
+  document.getElementById('btnNew').classList.toggle('on', view === 'new');
+  document.getElementById('btnSeen').classList.toggle('on', view === 'seen');
   document.getElementById('btnPrice').classList.toggle('on', sortPrice);
 }
-document.getElementById('btnAll').onclick = () => { filterNew = false; setBtns(); render(); };
-document.getElementById('btnNew').onclick = () => { filterNew = true; setBtns(); render(); };
+document.getElementById('btnTodo').onclick = () => { view = 'todo'; setBtns(); render(); };
+document.getElementById('btnNew').onclick = () => { view = 'new'; setBtns(); render(); };
+document.getElementById('btnSeen').onclick = () => { view = 'seen'; setBtns(); render(); };
 document.getElementById('btnPrice').onclick = () => { sortPrice = !sortPrice; setBtns(); render(); };
 document.getElementById('fab').onclick = load;
 
