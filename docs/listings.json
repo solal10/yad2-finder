@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-11T13:48:29.611Z",
-  "lastRunOk": true,
+  "lastRunOk": false,
   "count": 151,
   "newCount": 0,
   "searchUrl": "https://www.yad2.co.il/realestate/rent/tel-aviv-area?minPrice=6500&maxPrice=8000&minRooms=4&maxRooms=4&parking=1&elevator=1&shelter=1",
@@ -4593,5 +4593,7 @@
       "firstSeen": "2026-08-11T15:34:39.689Z",
       "isNew": false
     }
-  ]
+  ],
+  "lastErrorAt": "2026-09-13T03:42:18.382Z",
+  "lastError": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.yad2.co.il/\", waiting until \"domcontentloaded\"\n"
 }
