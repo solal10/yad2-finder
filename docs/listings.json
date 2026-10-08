@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-05T17:47:16.440Z",
-  "lastRunOk": true,
+  "lastRunOk": false,
   "count": 153,
   "newCount": 31,
   "searchUrl": "https://www.yad2.co.il/realestate/rent/tel-aviv-area?minPrice=6500&maxPrice=8000&minRooms=4&maxRooms=4&parking=1&elevator=1&shelter=1",
@@ -4653,5 +4653,7 @@
       "firstSeen": "2026-08-11T15:34:39.689Z",
       "isNew": false
     }
-  ]
+  ],
+  "lastErrorAt": "2026-10-08T15:33:53.588Z",
+  "lastError": "page.evaluate: TypeError: Failed to fetch\n    at https://www.yad2.co.il/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcasterv2.js:10:288455\n    at https://www.yad2.co.il/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcasterv2.js:10:30552\n    at Generator.<anonymous> (https://www.yad2.co.il/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcasterv2.js:10:1068)\n    at Generator.next (https://www.yad2.co.il/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcasterv2.js:10:2056)\n    at e (https://www.yad2.co.il/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcasterv2.js:1:4126)\n    at r (https://www.yad2.co.il/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcasterv2.js:1:4337)\n    at https://www.yad2.co.il/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcasterv2.js:1:4396\n    at new Promise (<anonymous>)\n    at https://www.yad2.co.il/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcasterv2.js:1:4277\n    at https://www.yad2.co.il/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcasterv2.js:10:288154"
 }
