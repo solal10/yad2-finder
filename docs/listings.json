@@ -4654,6 +4654,6 @@
       "isNew": false
     }
   ],
-  "lastErrorAt": "2026-10-16T15:57:18.493Z",
+  "lastErrorAt": "2026-10-18T11:07:23.105Z",
   "lastError": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.yad2.co.il/\nCall log:\n  - navigating to \"https://www.yad2.co.il/\", waiting until \"domcontentloaded\"\n"
 }
